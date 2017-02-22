@@ -9,7 +9,7 @@
 <body>
 <div class="navigation">
 	<ul>
-		  <li><a href="index.php"><img src="img/logo.png"></a></li>
+		  <li><a href="index.php"><img src="img/logo.png" width="40px;"></a></li>
 		  <li style="float:right">
 		  	<a href="#about">
 		  		<div class="btn">สมัครสมาชิก</div>

@@ -59,7 +59,7 @@ if (isset($_SESSION['cart']) and $itemCount > 0) {
 </script>
 <div class="navigation">
 	<ul>
-		  <li><a href="index.php"><img src="img/logo.png"></a></li>
+		  <li><a href="index.php"><img src="img/logo.png" width="40px;"></a></li>
 		  <li style="float:right; padding-top: 10px;padding-left: 20px;">
 		  	<a href="cart.php">
 		  		<img src="img/shop2.png">(<?php echo $meQty; ?>)
